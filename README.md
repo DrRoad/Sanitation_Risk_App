@@ -1,5 +1,5 @@
 # Sanitation_Risk_App
-Gather's Online Application for Viewing Sanitation Risk in CUA5 for the World Bank.
+Gather's Online Application for Viewing Sanitation Risk in CUA5, funded by the World Bank.
 
 This is based on an initial application template by Luis Rodrigues, but changed for a new deliverable for the World Bank. 
 
@@ -11,4 +11,4 @@ The Data Sources is a drop down, showing Environment, Social and Value Chain Dat
 
 For further information about Sanitation Risk and how it was calculated visit https://gatherhub.org
 
-This was made for the World Bank.
+This project was led by Gather and funded by World Bank Data International Fund and the Sir Halley Stewart Trust. For more information, contact hello@gatherhub.org.
